@@ -1,6 +1,22 @@
 # Course
 
-# Schedule
+CSC 510 introduces students to the discipline of developing useful and high-quality software-based systems. Students will be exposed to the techniques needed for the practice of effective software engineering as well as the skills required to succeed as a software professional. By the end of the course, you should be able to accomplish the following objectives:
+
+## Objectives
+
+* Implement software engineering practices in a team project.
+* Identify practices related to software process.
+* Decide how to test a system and measure coverage.
+* Compare and contrast design techniques and architectural patterns.
+* Measure the quality of software code.
+* Build tools for supporting software engineering tasks.
+* Evaluate evidence related to a software practice.
+* Identify configuration management practices for improving maintanance of software
+* Apply deployment practices and patterns.
+
+Students are expected to gain practical exposure to tools, processes, and principles of software engineering through hands-on projects while understanding models and research ideas behind the tools and processes.  Lectures will include workshop style learning experiences, where students get to work on a problemset and receive feedback from the instructor and other classmates.
+
+## Schedule
 
 The following schedule is subject to change.
 
