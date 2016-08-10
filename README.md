@@ -1,8 +1,12 @@
 # Course
 
-CSC 510 introduces students to the discipline of developing useful and high-quality software-based systems. Students will be exposed to the techniques needed for the practice of effective software engineering as well as the skills required to succeed as a software professional. By the end of the course, you should be able to accomplish the following objectives:
+CSC 510 introduces students to the discipline of developing useful and high-quality software-based systems. Students will be exposed to the techniques needed for the practice of effective software engineering as well as the skills required to succeed as a software professional. 
+
+See the [Syllabus](https://github.com/CSC-510/Course/blob/master/Syllabus.md) for details on classroom policies and evaluation.
 
 ## Objectives
+
+By the end of the course, you should be able to accomplish the following objectives:
 
 * Implement software engineering practices in a team project.
 * Identify practices related to software process.
