@@ -29,14 +29,14 @@ The following schedule is subject to change.
 | Aug 18   | Agile Processes                  |            | HW0               |
 | Aug 23   | Bootcamp: Basics                 |            |                   |
 | Aug 25   | Bootcamp: REST                   |            | HW1               |
-| Aug 30   | Web Basics                       |            |                   |
-| Sep  1   | Workshop: Selenium Testing       |            |                   |
+| Aug 30   | Bots                             |            |                   |
+| Sep  1   | Workshop: Slack bot              |            |                   |
 | Sep  6   | Design                           |            | MILESTONE: DESIGN |
 | Sep  8   | Workshop: Single Page App        |            |                   |
 | Sep 13   | Architectures                    |            |                   |
 | Sep 15   | Frameworks, APIs, Patterns       |            | HW2               |
-| Sep 20   | Bots                             |            |                   |
-| Sep 22   | Workshop: Slack bot              |            | MILESTONE: BOT    |
+| Sep 20   | Web Basics                       |            |                   |
+| Sep 22   | Workshop: Selenium Testing       |            | MILESTONE: BOT    |
 | Sep 27   | Testing                          |            |                   |
 | Sep 29   | Workshop: Unit Tests + Mocking   |            | HW3               |
 | Oct  4   | No class                         |            |                   |
