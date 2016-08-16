@@ -48,7 +48,7 @@ containing the following:
 
 * Complete moodle and slack profiles by deadline (20).
 * Screenshot of completed git tutorial (40).
-* Hooks (20)
+* Hook script (20)
 * Screencast (20)
 
 For your screenshot embed in the markdown file of your README.md. Include a link to your screencast video/gif.
