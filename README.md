@@ -26,13 +26,13 @@ The following schedule is subject to change.
 
 | Class    | Topics                           |  Resources | Assignments       |
 |----------|----------------------------------|------------| ----------------  |
-| Aug 18   | Agile Processes                  |            | HW0               |
+| Aug 18   | Agile Processes                  |            | [HW0](https://github.com/CSC-510/Course/blob/master/HW/HW0.md)               |
 | Aug 23   | Bootcamp: Basics                 |            |                   |
 | Aug 25   | Bootcamp: REST                   |            | HW1               |
 | Aug 30   | Bots                             |            |                   |
 | Sep  1   | Workshop: Slack bot              |            |                   |
 | Sep  6   | Design                           |            | MILESTONE: DESIGN |
-| Sep  8   | Workshop: Single Page App        |            |                   |
+| Sep  8   | Workshop: Design roundtables     |            |                   |
 | Sep 13   | Architectures                    |            |                   |
 | Sep 15   | Frameworks, APIs, Patterns       |            | HW2               |
 | Sep 20   | Web Basics                       |            |                   |
